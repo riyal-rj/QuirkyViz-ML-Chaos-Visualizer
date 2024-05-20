@@ -1,4 +1,4 @@
-## BoundCrafter-The ML Frontier Painter
+## QuirkyViz-ML-Chaos-Visualizer
 ![image](https://github.com/riyal-RJ/BoundCrafter_The-ML-Frontier-Painter/assets/156398857/b0b85500-c31e-469a-93ba-0dab5a3572ae)
 
 Tech Stack: streamlit and all model libraries
