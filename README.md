@@ -1,4 +1,5 @@
 ## BoundCrafter-The ML Frontier Painter
+![image](https://github.com/riyal-RJ/BoundCrafter_The-ML-Frontier-Painter/assets/156398857/b0b85500-c31e-469a-93ba-0dab5a3572ae)
 
 Tech Stack: streamlit and all model libraries
 
@@ -12,7 +13,7 @@ Users can upload datasets, select features, choose classification algorithms, an
 ![Screenshot 2024-05-20 113816](https://github.com/riyal-RJ/BoundCrafter_The-ML-Frontier-Painter/assets/156398857/94a909ab-ebea-4ef7-b05a-5ab147bea0a6)
 
 
-## We can also tune the hyper-parameters for each selected algoithm
+## We can also tune the hyper-parameters for each selected algorithm
 ![Screenshot 2024-05-20 113924](https://github.com/riyal-RJ/BoundCrafter_The-ML-Frontier-Painter/assets/156398857/f6dc7665-1c93-4284-ad53-662c335d7ab9)
 
 
